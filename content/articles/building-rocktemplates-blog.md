@@ -6,7 +6,7 @@ alt: Building Rock Templates Blog
 author:
   name: Erno Vuori
   bio: Creator of a Rock Templates
-  image: https://images.unsplash.com/.....
+  image: https://blog.rocktemplates/img/evuori.jpeg
 ---
 
 We're a team of developers who like to try new things, get excited and learn.

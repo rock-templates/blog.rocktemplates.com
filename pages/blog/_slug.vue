@@ -114,11 +114,7 @@ export default {
                             class="flex justify-center xl:block space-x-8 sm:space-x-12 xl:space-x-0 xl:space-y-8"
                         >
                             <li class="flex items-center space-x-2">
-                                <img
-                                    src="https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=10&q=80"
-                                    alt
-                                    class="w-10 h-10 rounded-full"
-                                />
+                                <img src="/img/evuori.jpeg" alt class="w-10 h-10 rounded-full" />
                                 <dl class="text-sm font-medium whitespace-no-wrap">
                                     <dt class="sr-only">Erno Vuori</dt>
                                     <dd class="text-gray-900">Erno Vuori</dd>
